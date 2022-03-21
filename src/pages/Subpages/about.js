@@ -276,10 +276,10 @@ class About extends Component {
                           ></div>
                         </div>
                       </div>
-                      <h4 className="team-name">Santiago</h4>
-                      <h5 className="text-uppercase">Arquitecto de software</h5>
+                      <h4 className="team-name">Leonardo</h4>
+                      <h5 className="text-uppercase">Científico de datos</h5>
                       <p className="team-designation">
-                        Ingeniero de Sistemas y Computación.
+                        Matemático. Especialista en Bases de datos.
                       </p>
                     </div>
                   </div>

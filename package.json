@@ -14,7 +14,7 @@
     "react-modal-video": "^1.2.3",
     "react-particles-js": "^2.7.0",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.1.2",
+    "react-scripts": "3.4.0",
     "react-text-rotator": "0.0.5",
     "reactstrap": "^8.0.1"
   },
